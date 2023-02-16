@@ -3,7 +3,7 @@
 """
 :author: albert
 :date: 02/28/2019
-:desc: http请求工具类
+:desc: http 请求工具类
 """
 import logging
 
